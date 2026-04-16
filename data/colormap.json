@@ -1,0 +1,2122 @@
+[
+  {
+    "id": 1,
+    "name": "Frontal Cortex",
+    "abbreviation": "FC",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral cortex",
+      "Neocortex",
+      "Frontal Cortex"
+    ],
+    "color": [
+      209,
+      225,
+      178,
+      255
+    ],
+    "right": {
+      "id": 1,
+      "name": "Frontal cortex R",
+      "color": [
+        209,
+        225,
+        178,
+        255
+      ]
+    },
+    "left": {
+      "id": 2,
+      "name": "Frontal cortex L",
+      "color": [
+        218,
+        232,
+        206,
+        255
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Piriform Cortex",
+    "abbreviation": "Pir",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral cortex",
+      "Paleocortex",
+      "Piriform Cortex"
+    ],
+    "color": [
+      186,
+      214,
+      153,
+      255
+    ],
+    "right": {
+      "id": 3,
+      "name": "Piriform cortex R",
+      "color": [
+        186,
+        214,
+        153,
+        255
+      ]
+    },
+    "left": {
+      "id": 4,
+      "name": "Piriform cortex L",
+      "color": [
+        185,
+        214,
+        160,
+        255
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Medial Prefrontal Cortex",
+    "abbreviation": "mPFC",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral cortex",
+      "Neocortex",
+      "Medial Prefrontal Cortex"
+    ],
+    "color": [
+      176,
+      208,
+      141,
+      255
+    ],
+    "right": {
+      "id": 5,
+      "name": "Medial Prefrontal cortex R",
+      "color": [
+        176,
+        208,
+        141,
+        255
+      ]
+    },
+    "left": {
+      "id": 6,
+      "name": "Medial Prefrontal cortex L",
+      "color": [
+        153,
+        202,
+        137,
+        255
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Cingulate Cortex",
+    "abbreviation": "CgC",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral cortex",
+      "Neocortex",
+      "Cingulate Cortex"
+    ],
+    "color": [
+      157,
+      209,
+      111,
+      255
+    ],
+    "right": {
+      "id": 7,
+      "name": "Cingulate cortex R",
+      "color": [
+        157,
+        209,
+        111,
+        255
+      ]
+    },
+    "left": {
+      "id": 8,
+      "name": "Cingulate cortex L",
+      "color": [
+        142,
+        198,
+        127,
+        255
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Insular Cortex",
+    "abbreviation": "InsC",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral cortex",
+      "Neocortex",
+      "Insular Cortex"
+    ],
+    "color": [
+      113,
+      202,
+      82,
+      255
+    ],
+    "right": {
+      "id": 9,
+      "name": "Insular cortex R",
+      "color": [
+        113,
+        202,
+        82,
+        255
+      ]
+    },
+    "left": {
+      "id": 10,
+      "name": "Insular cortex L",
+      "color": [
+        111,
+        198,
+        101,
+        255
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Parietal Cortex",
+    "abbreviation": "PC",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral cortex",
+      "Neocortex",
+      "Parietal Cortex"
+    ],
+    "color": [
+      83,
+      201,
+      61,
+      255
+    ],
+    "right": {
+      "id": 11,
+      "name": "Parietal cortex R",
+      "color": [
+        83,
+        201,
+        61,
+        255
+      ]
+    },
+    "left": {
+      "id": 12,
+      "name": "Parietal cortex L",
+      "color": [
+        87,
+        196,
+        91,
+        255
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Temporal Cortex",
+    "abbreviation": "TC",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral cortex",
+      "Neocortex",
+      "Temporal Cortex"
+    ],
+    "color": [
+      23,
+      201,
+      19,
+      255
+    ],
+    "right": {
+      "id": 13,
+      "name": "temporal cortex R",
+      "color": [
+        23,
+        201,
+        19,
+        255
+      ]
+    },
+    "left": {
+      "id": 14,
+      "name": "temporal cortex L",
+      "color": [
+        54,
+        190,
+        82,
+        255
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Visual area 2",
+    "abbreviation": "V2",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral cortex",
+      "Neocortex",
+      "Visual area 2"
+    ],
+    "color": [
+      15,
+      182,
+      42,
+      255
+    ],
+    "right": {
+      "id": 15,
+      "name": "V2 R",
+      "color": [
+        15,
+        182,
+        42,
+        255
+      ]
+    },
+    "left": {
+      "id": 16,
+      "name": "V2 L",
+      "color": [
+        15,
+        183,
+        70,
+        255
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "name": "Primary visual cortex",
+    "abbreviation": "V1",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral cortex",
+      "Neocortex",
+      "Primary visual cortex"
+    ],
+    "color": [
+      2,
+      132,
+      88,
+      255
+    ],
+    "right": {
+      "id": 17,
+      "name": "V1 R",
+      "color": [
+        2,
+        132,
+        88,
+        255
+      ]
+    },
+    "left": {
+      "id": 18,
+      "name": "V1 L",
+      "color": [
+        6,
+        155,
+        135,
+        255
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "name": "Entorhinal Cortex",
+    "abbreviation": "EC",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral cortex",
+      "Hippocampal Formation",
+      "Entorhinal Cortex"
+    ],
+    "color": [
+      11,
+      95,
+      209,
+      255
+    ],
+    "right": {
+      "id": 19,
+      "name": "entorhinal cortex R",
+      "color": [
+        11,
+        95,
+        209,
+        255
+      ]
+    },
+    "left": {
+      "id": 20,
+      "name": "entorhinal cortex L",
+      "color": [
+        31,
+        45,
+        168,
+        255
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "name": "Hippocampus-unspecified",
+    "abbreviation": "Hi-U",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral cortex",
+      "Hippocampal Formation",
+      "Hippocampus-unspecified"
+    ],
+    "color": [
+      7,
+      102,
+      212,
+      255
+    ],
+    "right": {
+      "id": 21,
+      "name": "Hippocampus R",
+      "color": [
+        7,
+        102,
+        212,
+        255
+      ]
+    },
+    "left": {
+      "id": 22,
+      "name": "Hippocampus L",
+      "color": [
+        29,
+        65,
+        213,
+        255
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "name": "Subiculum",
+    "abbreviation": "Sub",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral cortex",
+      "Hippocampal Formation",
+      "Subiculum"
+    ],
+    "color": [
+      37,
+      109,
+      183,
+      255
+    ],
+    "right": {
+      "id": 23,
+      "name": "Subiculum R",
+      "color": [
+        37,
+        109,
+        183,
+        255
+      ]
+    },
+    "left": {
+      "id": 24,
+      "name": "Subiculum L",
+      "color": [
+        21,
+        82,
+        209,
+        255
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "name": "Putamen",
+    "abbreviation": "Put",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral nuclei",
+      "Striatum",
+      "Putamen"
+    ],
+    "color": [
+      0,
+      200,
+      120,
+      255
+    ],
+    "right": {
+      "id": 25,
+      "name": "Putamen R",
+      "color": [
+        0,
+        200,
+        120,
+        255
+      ]
+    },
+    "left": {
+      "id": 26,
+      "name": "Putamen L",
+      "color": [
+        30,
+        230,
+        150,
+        255
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "name": "Caudate",
+    "abbreviation": "Cd",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral nuclei",
+      "Striatum",
+      "Caudate"
+    ],
+    "color": [
+      0,
+      180,
+      100,
+      255
+    ],
+    "right": {
+      "id": 27,
+      "name": "Caudate nucleus R",
+      "color": [
+        0,
+        180,
+        100,
+        255
+      ]
+    },
+    "left": {
+      "id": 28,
+      "name": "Caudate nucleus L",
+      "color": [
+        30,
+        210,
+        130,
+        255
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "name": "Globus Pallidus",
+    "abbreviation": "GP",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebral nuclei",
+      "Extended pallidum",
+      "Globus Pallidus"
+    ],
+    "color": [
+      0,
+      160,
+      80,
+      255
+    ],
+    "right": {
+      "id": 29,
+      "name": "globus pallidus R",
+      "color": [
+        0,
+        160,
+        80,
+        255
+      ]
+    },
+    "left": {
+      "id": 30,
+      "name": "globus pallidus L",
+      "color": [
+        30,
+        190,
+        110,
+        255
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "name": "Olfactory Bulb",
+    "abbreviation": "OB",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Olfactory Bulb"
+    ],
+    "color": [
+      140,
+      120,
+      180,
+      255
+    ],
+    "right": {
+      "id": 31,
+      "name": "olfactory bulb R",
+      "color": [
+        140,
+        120,
+        180,
+        255
+      ]
+    },
+    "left": {
+      "id": 32,
+      "name": "olfactory bulb L",
+      "color": [
+        160,
+        140,
+        200,
+        255
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "name": "Septum",
+    "abbreviation": "Sept",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Septum"
+    ],
+    "color": [
+      120,
+      100,
+      160,
+      255
+    ],
+    "right": {
+      "id": 33,
+      "name": "Septum",
+      "color": [
+        120,
+        100,
+        160,
+        255
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "name": "Claustrum",
+    "abbreviation": "Cl",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Claustrum"
+    ],
+    "color": [
+      27,
+      158,
+      239,
+      255
+    ],
+    "right": {
+      "id": 34,
+      "name": "Claustrum R",
+      "color": [
+        27,
+        158,
+        239,
+        255
+      ]
+    },
+    "left": {
+      "id": 35,
+      "name": "Claustrum L",
+      "color": [
+        22,
+        78,
+        230,
+        255
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "name": "Amygdala",
+    "abbreviation": "Amg",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Amygdala"
+    ],
+    "color": [
+      140,
+      100,
+      221,
+      255
+    ],
+    "right": {
+      "id": 36,
+      "name": "amygdala R",
+      "color": [
+        140,
+        100,
+        221,
+        255
+      ]
+    },
+    "left": {
+      "id": 37,
+      "name": "amygdala L",
+      "color": [
+        194,
+        86,
+        226,
+        255
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "name": "Basal Forebrain",
+    "abbreviation": "BF",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Basal Forebrain"
+    ],
+    "color": [
+      122,
+      178,
+      226,
+      255
+    ],
+    "right": {
+      "id": 38,
+      "name": "basal forebrain",
+      "color": [
+        122,
+        178,
+        226,
+        255
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "name": "Forebrain",
+    "abbreviation": "FB",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Forebrain"
+    ],
+    "color": [
+      91,
+      46,
+      181,
+      255
+    ],
+    "right": {
+      "id": 39,
+      "name": "forebrain R",
+      "color": [
+        91,
+        46,
+        181,
+        255
+      ]
+    },
+    "left": {
+      "id": 40,
+      "name": "forebrain L",
+      "color": [
+        114,
+        65,
+        212,
+        255
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "name": "Nucleus Anterior Ventralis Thalami",
+    "abbreviation": "NAVT",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Interbrain",
+      "Thalamus",
+      "Nucleus Anterior Ventralis Thalami"
+    ],
+    "color": [
+      216,
+      9,
+      15,
+      255
+    ],
+    "right": {
+      "id": 41,
+      "name": "Nucleus anterior ventralis thalami R",
+      "color": [
+        216,
+        9,
+        15,
+        255
+      ]
+    },
+    "left": {
+      "id": 42,
+      "name": "Nucleus anterior ventralis thalami L",
+      "color": [
+        201,
+        9,
+        30,
+        255
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "name": "Thalamus-unspecified",
+    "abbreviation": "Thal-U",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Interbrain",
+      "Thalamus",
+      "Thalamus-unspecified"
+    ],
+    "color": [
+      228,
+      13,
+      8,
+      255
+    ],
+    "right": {
+      "id": 43,
+      "name": "Thalamus R",
+      "color": [
+        228,
+        13,
+        8,
+        255
+      ]
+    },
+    "left": {
+      "id": 44,
+      "name": "Thalamus L",
+      "color": [
+        206,
+        41,
+        47,
+        255
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "name": "Nucleus Reticularis Thalami",
+    "abbreviation": "NRT",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Interbrain",
+      "Thalamus",
+      "Nucleus Reticularis Thalami"
+    ],
+    "color": [
+      223,
+      54,
+      33,
+      255
+    ],
+    "right": {
+      "id": 45,
+      "name": "Nucleus reticularis thalami R",
+      "color": [
+        223,
+        54,
+        33,
+        255
+      ]
+    },
+    "left": {
+      "id": 46,
+      "name": "Nucleus reticularis thalami L",
+      "color": [
+        207,
+        58,
+        52,
+        255
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "name": "Nucleus Lateralis Thalami",
+    "abbreviation": "NLT",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Interbrain",
+      "Thalamus",
+      "Nucleus Lateralis Thalami"
+    ],
+    "color": [
+      217,
+      76,
+      49,
+      255
+    ],
+    "right": {
+      "id": 47,
+      "name": "Nucleus lateralis thalami R",
+      "color": [
+        217,
+        76,
+        49,
+        255
+      ]
+    },
+    "left": {
+      "id": 48,
+      "name": "Nucleus lateralis thalami L",
+      "color": [
+        204,
+        78,
+        63,
+        255
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "name": "Nucleus Ventralis Basalis Thalami",
+    "abbreviation": "NVBTh",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Interbrain",
+      "Thalamus",
+      "Nucleus Ventralis Basalis Thalami"
+    ],
+    "color": [
+      213,
+      104,
+      63,
+      255
+    ],
+    "right": {
+      "id": 49,
+      "name": "Nucleus ventralis basalis thalami R",
+      "color": [
+        213,
+        104,
+        63,
+        255
+      ]
+    },
+    "left": {
+      "id": 50,
+      "name": "Nucleus ventralis basalis thalami L",
+      "color": [
+        191,
+        96,
+        76,
+        255
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "name": "Geniculate Body",
+    "abbreviation": "GB",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Interbrain",
+      "Thalamus",
+      "Geniculate Body"
+    ],
+    "color": [
+      208,
+      116,
+      75,
+      255
+    ],
+    "right": {
+      "id": 51,
+      "name": "Geniculate bodies R",
+      "color": [
+        208,
+        116,
+        75,
+        255
+      ]
+    },
+    "left": {
+      "id": 52,
+      "name": "Geniculate bodies L",
+      "color": [
+        191,
+        103,
+        83,
+        255
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "name": "Hypothalmus-unspecified",
+    "abbreviation": "Hypo-U",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Interbrain",
+      "Hypothalmus",
+      "Hypothalmus-unspecified"
+    ],
+    "color": [
+      76,
+      39,
+      153,
+      255
+    ],
+    "right": {
+      "id": 53,
+      "name": "hypothalamus R",
+      "color": [
+        76,
+        39,
+        153,
+        255
+      ]
+    },
+    "left": {
+      "id": 54,
+      "name": "hypothalamus L",
+      "color": [
+        64,
+        27,
+        192,
+        255
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "name": "Mammillary Body",
+    "abbreviation": "MB",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Interbrain",
+      "Hypothalmus",
+      "Mammillary Body"
+    ],
+    "color": [
+      70,
+      55,
+      148,
+      255
+    ],
+    "right": {
+      "id": 55,
+      "name": "Mammillary body R",
+      "color": [
+        70,
+        55,
+        148,
+        255
+      ]
+    },
+    "left": {
+      "id": 56,
+      "name": "Mammillary body L",
+      "color": [
+        39,
+        71,
+        190,
+        255
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "name": "Corpus Subthalamicum",
+    "abbreviation": "CSub",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Interbrain",
+      "Subthalamus",
+      "Corpus Subthalamicum"
+    ],
+    "color": [
+      120,
+      140,
+      100,
+      255
+    ],
+    "right": {
+      "id": 57,
+      "name": "Corpus subthalamicum R",
+      "color": [
+        120,
+        140,
+        100,
+        255
+      ]
+    },
+    "left": {
+      "id": 58,
+      "name": "Corpus subthalamicum L",
+      "color": [
+        150,
+        170,
+        130,
+        255
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "name": "Habenular Nuclei",
+    "abbreviation": "HbN",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Interbrain",
+      "Epithalamus",
+      "Habenular Nuclei"
+    ],
+    "color": [
+      100,
+      120,
+      140,
+      255
+    ],
+    "right": {
+      "id": 59,
+      "name": "habenular nuclei R",
+      "color": [
+        100,
+        120,
+        140,
+        255
+      ]
+    },
+    "left": {
+      "id": 60,
+      "name": "habenular nuclei L",
+      "color": [
+        130,
+        150,
+        170,
+        255
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "name": "Midbrain-unspecified",
+    "abbreviation": "Mid-U",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Midbrain",
+      "Midbrain Formation",
+      "Midbrain-unspecified"
+    ],
+    "color": [
+      0,
+      150,
+      255,
+      255
+    ],
+    "right": {
+      "id": 61,
+      "name": "Midbrain",
+      "color": [
+        0,
+        150,
+        255,
+        255
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "name": "Superior Colliculus",
+    "abbreviation": "SC",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Midbrain",
+      "Midbrain Formation",
+      "Superior Colliculus"
+    ],
+    "color": [
+      0,
+      130,
+      240,
+      255
+    ],
+    "right": {
+      "id": 62,
+      "name": "Superior Colliculus R",
+      "color": [
+        0,
+        130,
+        240,
+        255
+      ]
+    },
+    "left": {
+      "id": 63,
+      "name": "Superior Colliculus L",
+      "color": [
+        30,
+        160,
+        255,
+        255
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "name": "Nucleus Darkschewitsch",
+    "abbreviation": "ND",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Midbrain",
+      "Midbrain Formation",
+      "Nucleus Darkschewitsch"
+    ],
+    "color": [
+      0,
+      110,
+      220,
+      255
+    ],
+    "right": {
+      "id": 64,
+      "name": "Nucleus Darkschewitsch",
+      "color": [
+        0,
+        110,
+        220,
+        255
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "name": "Periaqueductal Gray",
+    "abbreviation": "PAG",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Midbrain",
+      "Midbrain Formation",
+      "Periaqueductal Gray"
+    ],
+    "color": [
+      0,
+      90,
+      200,
+      255
+    ],
+    "right": {
+      "id": 65,
+      "name": "Periaqueductal gray R",
+      "color": [
+        0,
+        90,
+        200,
+        255
+      ]
+    },
+    "left": {
+      "id": 66,
+      "name": "Periaqueductal gray L",
+      "color": [
+        30,
+        120,
+        230,
+        255
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "name": "Inferior Colliculus",
+    "abbreviation": "ICo",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Midbrain",
+      "Midbrain Formation",
+      "Inferior Colliculus"
+    ],
+    "color": [
+      0,
+      100,
+      210,
+      255
+    ],
+    "right": {
+      "id": 67,
+      "name": "Inferior colliculus R",
+      "color": [
+        0,
+        100,
+        210,
+        255
+      ]
+    },
+    "left": {
+      "id": 68,
+      "name": "Inferior colliculus L",
+      "color": [
+        30,
+        130,
+        240,
+        255
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "name": "Pons-unspecified",
+    "abbreviation": "Pon-U",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Hindbrain",
+      "Pons",
+      "Pons-unspecified"
+    ],
+    "color": [
+      73,
+      176,
+      94,
+      255
+    ],
+    "right": {
+      "id": 69,
+      "name": "pons",
+      "color": [
+        73,
+        176,
+        94,
+        255
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "name": "Pontine Nuclei",
+    "abbreviation": "PN",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Hindbrain",
+      "Pons",
+      "Pontine Nuclei"
+    ],
+    "color": [
+      101,
+      208,
+      151,
+      255
+    ],
+    "right": {
+      "id": 70,
+      "name": "Pontine nuclei",
+      "color": [
+        101,
+        208,
+        151,
+        255
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "name": "Medulla oblongata",
+    "abbreviation": "Med",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Hindbrain",
+      "Medulla oblongata",
+      "Medulla oblongata"
+    ],
+    "color": [
+      92,
+      171,
+      171,
+      255
+    ],
+    "right": {
+      "id": 71,
+      "name": "Medulla oblongata",
+      "color": [
+        92,
+        171,
+        171,
+        255
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "name": "Vermis",
+    "abbreviation": "Verm",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebellum",
+      "     Cerebellum",
+      "Vermis"
+    ],
+    "color": [
+      253,
+      225,
+      28,
+      255
+    ],
+    "right": {
+      "id": 72,
+      "name": "vermis",
+      "color": [
+        253,
+        225,
+        28,
+        255
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "name": "Cerebellar Hemispheres",
+    "abbreviation": "CbH",
+    "hierarchy": [
+      "Cerebrum",
+      "Gray matter",
+      "Cerebellum",
+      "     Cerebellum",
+      "Cerebellar Hemispheres"
+    ],
+    "color": [
+      221,
+      191,
+      37,
+      255
+    ],
+    "right": {
+      "id": 73,
+      "name": "Cerebellar hemispheres R",
+      "color": [
+        221,
+        191,
+        37,
+        255
+      ]
+    },
+    "left": {
+      "id": 74,
+      "name": "Cerebellar hemispheres L",
+      "color": [
+        254,
+        177,
+        43,
+        255
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "name": "Fimbria hippocampi",
+    "abbreviation": "FimHi",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Hippocampal - Fornix Tracts",
+      "Fimbria hippocampi"
+    ],
+    "color": [
+      255,
+      0,
+      128,
+      255
+    ],
+    "right": {
+      "id": 75,
+      "name": "Fimbria hippocampi R",
+      "color": [
+        255,
+        0,
+        128,
+        255
+      ]
+    },
+    "left": {
+      "id": 76,
+      "name": "Fimbria hippocampi L",
+      "color": [
+        255,
+        40,
+        160,
+        255
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "name": "Tractus opticus",
+    "abbreviation": "TO",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Visual Projection Tracts",
+      "Tractus opticus"
+    ],
+    "color": [
+      0,
+      180,
+      255,
+      255
+    ],
+    "right": {
+      "id": 77,
+      "name": "optic tract R",
+      "color": [
+        0,
+        180,
+        255,
+        255
+      ]
+    },
+    "left": {
+      "id": 78,
+      "name": "optic tract L",
+      "color": [
+        40,
+        200,
+        255,
+        255
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "name": "Subcortical white matter",
+    "abbreviation": "SCWM",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Subcortical Projection Tracts",
+      "Subcortical white matter"
+    ],
+    "color": [
+      255,
+      200,
+      0,
+      255
+    ],
+    "right": {
+      "id": 79,
+      "name": "subcortical white matter R",
+      "color": [
+        255,
+        200,
+        0,
+        255
+      ]
+    },
+    "left": {
+      "id": 80,
+      "name": "subcortical white matter L",
+      "color": [
+        255,
+        230,
+        0,
+        255
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "name": "Corpus callosum",
+    "abbreviation": "CC",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Commissural Fibers",
+      "Corpus callosum"
+    ],
+    "color": [
+      220,
+      0,
+      255,
+      255
+    ],
+    "right": {
+      "id": 81,
+      "name": "Corpus callosum R",
+      "color": [
+        220,
+        0,
+        255,
+        255
+      ]
+    },
+    "left": {
+      "id": 82,
+      "name": "Corpus callosum L",
+      "color": [
+        255,
+        0,
+        255,
+        255
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "name": "Anterior Commissure",
+    "abbreviation": "AC",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Commissural Fibers",
+      "Anterior Commissure"
+    ],
+    "color": [
+      0,
+      255,
+      100,
+      255
+    ],
+    "right": {
+      "id": 83,
+      "name": "AC",
+      "color": [
+        0,
+        255,
+        100,
+        255
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "name": "Fornix",
+    "abbreviation": "Fx",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Hippocampal - Fornix Tracts",
+      "Fornix"
+    ],
+    "color": [
+      255,
+      120,
+      0,
+      255
+    ],
+    "right": {
+      "id": 84,
+      "name": "Fornix R",
+      "color": [
+        255,
+        120,
+        0,
+        255
+      ]
+    },
+    "left": {
+      "id": 85,
+      "name": "Fornix L",
+      "color": [
+        255,
+        160,
+        0,
+        255
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "name": "Radiatio optica",
+    "abbreviation": "RO",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Visual Projection Tracts",
+      "Radiatio optica"
+    ],
+    "color": [
+      0,
+      150,
+      200,
+      255
+    ],
+    "right": {
+      "id": 86,
+      "name": "Radiatio optica R",
+      "color": [
+        0,
+        150,
+        200,
+        255
+      ]
+    },
+    "left": {
+      "id": 87,
+      "name": "Radiatio optica L",
+      "color": [
+        30,
+        180,
+        230,
+        255
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "name": "Pes pedunculi cerebri, Crus cerebri",
+    "abbreviation": "PPCr",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Brainstem Projection/Crossing Tracts",
+      "Pes pedunculi cerebri, Crus cerebri"
+    ],
+    "color": [
+      255,
+      0,
+      200,
+      255
+    ],
+    "right": {
+      "id": 88,
+      "name": "Pespedunculi cerebri, CruS cerebri R",
+      "color": [
+        255,
+        0,
+        200,
+        255
+      ]
+    },
+    "left": {
+      "id": 89,
+      "name": "Pespedunculi cerebri, CruS cerebri L",
+      "color": [
+        255,
+        0,
+        230,
+        255
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "name": "Posterior Commissure",
+    "abbreviation": "PC",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Commissural Fibers",
+      "Posterior Commissure"
+    ],
+    "color": [
+      120,
+      255,
+      0,
+      255
+    ],
+    "right": {
+      "id": 90,
+      "name": "PC",
+      "color": [
+        120,
+        255,
+        0,
+        255
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "name": "Capsula interna",
+    "abbreviation": "Ci",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Subcortical Projection Tracts",
+      "Capsula interna"
+    ],
+    "color": [
+      255,
+      100,
+      255,
+      255
+    ],
+    "right": {
+      "id": 91,
+      "name": "Capsula interna R",
+      "color": [
+        255,
+        100,
+        255,
+        255
+      ]
+    },
+    "left": {
+      "id": 92,
+      "name": "Capsula interna L",
+      "color": [
+        255,
+        140,
+        255,
+        255
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "name": "Corona radiata",
+    "abbreviation": "Cr",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Subcortical Projection Tracts",
+      "Corona radiata"
+    ],
+    "color": [
+      0,
+      255,
+      220,
+      255
+    ],
+    "right": {
+      "id": 93,
+      "name": "Corona radiata R",
+      "color": [
+        0,
+        255,
+        220,
+        255
+      ]
+    },
+    "left": {
+      "id": 94,
+      "name": "Corona radiata L",
+      "color": [
+        30,
+        255,
+        255,
+        255
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "name": "Capsula externa",
+    "abbreviation": "Ce",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Subcortical Projection Tracts",
+      "Capsula externa"
+    ],
+    "color": [
+      255,
+      255,
+      0,
+      255
+    ],
+    "right": {
+      "id": 95,
+      "name": "Capsula externa R",
+      "color": [
+        255,
+        255,
+        0,
+        255
+      ]
+    },
+    "left": {
+      "id": 96,
+      "name": "Capsula externa L",
+      "color": [
+        255,
+        255,
+        0,
+        255
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "name": "Lemniscus principalis",
+    "abbreviation": "LP",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Brainstem Projection/Crossing Tracts",
+      "Lemniscus principalis"
+    ],
+    "color": [
+      80,
+      0,
+      255,
+      255
+    ],
+    "right": {
+      "id": 97,
+      "name": "Lemniscus principalis R",
+      "color": [
+        80,
+        0,
+        255,
+        255
+      ]
+    },
+    "left": {
+      "id": 98,
+      "name": "Lemniscus principalis L",
+      "color": [
+        120,
+        0,
+        255,
+        255
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "name": "Tractus rubrospinalis",
+    "abbreviation": "TRS",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Brainstem Projection/Crossing Tracts",
+      "Tractus rubrospinalis"
+    ],
+    "color": [
+      0,
+      100,
+      255,
+      255
+    ],
+    "right": {
+      "id": 99,
+      "name": "Tractus rubrospinalis",
+      "color": [
+        0,
+        100,
+        255,
+        255
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "name": "Transverse fibers",
+    "abbreviation": "TF",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Brainstem Projection/Crossing Tracts",
+      "Transverse fibers"
+    ],
+    "color": [
+      255,
+      50,
+      100,
+      255
+    ],
+    "right": {
+      "id": 100,
+      "name": "transverse fibers of pons R",
+      "color": [
+        255,
+        50,
+        100,
+        255
+      ]
+    },
+    "left": {
+      "id": 101,
+      "name": "transverse fibers of pons L",
+      "color": [
+        255,
+        0,
+        130,
+        255
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "name": "Brachium conjunctivum quadrigemini postici",
+    "abbreviation": "BCqp",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Brainstem Projection/Crossing Tracts",
+      "Brachium conjunctivum quadrigemini postici"
+    ],
+    "color": [
+      200,
+      255,
+      255,
+      255
+    ],
+    "right": {
+      "id": 102,
+      "name": "Brachium conjunctivum quadrigemini postici R",
+      "color": [
+        200,
+        255,
+        255,
+        255
+      ]
+    },
+    "left": {
+      "id": 103,
+      "name": "Brachium conjunctivum quadrigemini postici L",
+      "color": [
+        230,
+        255,
+        255,
+        255
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "name": "Habenular stria",
+    "abbreviation": "HS",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Limbic/Diencephalic Tracts",
+      "Habenular stria"
+    ],
+    "color": [
+      255,
+      180,
+      255,
+      255
+    ],
+    "right": {
+      "id": 104,
+      "name": "habenular stria R",
+      "color": [
+        255,
+        180,
+        255,
+        255
+      ]
+    },
+    "left": {
+      "id": 105,
+      "name": "habenular stria L",
+      "color": [
+        255,
+        210,
+        255,
+        255
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "name": "Columna descendens fornicis",
+    "abbreviation": "CdFx",
+    "hierarchy": [
+      "Cerebrum",
+      "Fiber tracts",
+      "Fiber tracts",
+      "Hippocampal - Fornix Tracts",
+      "Columna descendens fornicis"
+    ],
+    "color": [
+      60,
+      255,
+      180,
+      255
+    ],
+    "right": {
+      "id": 106,
+      "name": "Columna descendens fomicis R",
+      "color": [
+        60,
+        255,
+        180,
+        255
+      ]
+    },
+    "left": {
+      "id": 107,
+      "name": "Columna descendens fomicis L",
+      "color": [
+        90,
+        255,
+        210,
+        255
+      ]
+    }
+  }
+]
